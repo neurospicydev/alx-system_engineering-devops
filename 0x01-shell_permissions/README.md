@@ -1,4 +1,4 @@
-#H1 Shell Permissions
+# Shell Permissions
 This project folder demonstrates knowledge and understanding in Shell (*Bash*) Permissions. 
 
 I explore commands such as:
