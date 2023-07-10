@@ -46,4 +46,8 @@ A bash script that takes a list of words as inputs and prints only words that ap
 - Words should be sorted 
 
 ### 14. It Must Be In That File
-A bash script that displays lines containing the pattern "root" from the file `/etc/passwd`
+A bash script that displays lines containing the pattern "root" from the file `/etc/passwd`.
+
+### 15. Count That Word
+A bash script that displays the number of lines that contain the pattern "bin" in the file `/etc/passwd`.
+
