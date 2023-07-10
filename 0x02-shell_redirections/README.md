@@ -38,3 +38,9 @@ A bash script that counts the number of directories and sub-directories in the c
 
 ### 12. What's New
 A bash script that displays the 10 newest files in the current directory.
+
+### 13. Being unique is better than being perfect
+A bash script that takes a list of words as inputs and prints only words that appear exactly once.
+- Input format: One line, one word
+- Output format: One line, one word
+- Words should be sorted 
