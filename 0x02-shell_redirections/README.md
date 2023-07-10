@@ -56,3 +56,6 @@ A bash script that displays lines containing the pattern "root" and 3 lines afte
 
 ### 17. I Hate Bins
 A bash script that displays lines in the file `/etc/passwd` that do not contain the pattern "bin".
+
+### 18. Letters Only Please
+A bash script that displays all lines of the file `/etc/ssh/sshd_config` starting with a letter. The search is case insensitive.
