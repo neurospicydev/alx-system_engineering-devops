@@ -17,3 +17,6 @@ A bash script to display the last 10 lines of `/etc/passwd` file.
 
 ### 5. I'd Prefer The First Ones Actually
 A bash script that displays the first 10 lines of `/etc/passwd` file.
+
+### 6. Line#2
+A bash script that displays the third line of the file `iacta`
