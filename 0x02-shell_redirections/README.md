@@ -20,3 +20,6 @@ A bash script that displays the first 10 lines of `/etc/passwd` file.
 
 ### 6. Line#2
 A bash script that displays the third line of the file `iacta`
+
+### 7. It is a Good File That Cuts Iron Without Making a Noise
+A bash script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`.
