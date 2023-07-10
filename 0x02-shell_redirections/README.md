@@ -6,5 +6,8 @@ A bash script that prints *"Hello, World"*, followed by a new line to standard o
 ### 1. Confused Smiley
 A bash script that displays a confused smiley "(Ôo)'.
 
-### 2. Let's Display a file
+### 2. Let's Display a File
 A bash script that displays the content of the `/etc/passwd` file.
+
+### 3. What About 2?
+A bash script that displays the content of `/etc/passwd` and `/etc/hosts` files.
