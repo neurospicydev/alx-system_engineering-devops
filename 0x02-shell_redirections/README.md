@@ -53,3 +53,6 @@ A bash script that displays the number of lines that contain the pattern "bin" i
 
 ### 16. What's Next?
 A bash script that displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
+
+### 17. I Hate Bins
+A bash script that displays lines in the file `/etc/passwd` that do not contain the pattern "bin".
