@@ -14,3 +14,6 @@ A bash script that displays the content of `/etc/passwd` and `/etc/hosts` files.
 
 ### 4. Last Lines of a File
 A bash script to display the last 10 lines of `/etc/passwd` file.
+
+### 5. I'd Prefer The First Ones Actually
+A bash script that displays the first 10 lines of `/etc/passwd` file.
